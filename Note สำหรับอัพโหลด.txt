@@ -1,0 +1,4 @@
+เปลี่ยน directory file csv
+d3.csv('../dcaptest.csv')
+เป็น
+d3.csv('https://kittiboon.space/WebsitieSEID/dcaptest.csv')
